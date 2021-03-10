@@ -1,0 +1,23 @@
+{
+  "name": "hue-gamestate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "noma ."
+  },
+  "author": "Jonatan Pedersen",
+  "license": "ISC",
+  "dependencies": {
+    "@noma/cli": "^1.0.0-alpha.1",
+    "@noma/plugin-express": "^1.0.0-alpha.2",
+    "@noma/plugin-http": "^1.0.0-alpha.2",
+    "@noma/plugin-ws": "^1.0.0-alpha.3",
+    "body-parser": "^1.19.0",
+    "debug": "^4.3.1",
+    "deep-object-diff": "^1.1.0",
+    "flat": "^5.0.2",
+    "node-fetch": "^2.6.1"
+  },
+  "type": "module"
+}

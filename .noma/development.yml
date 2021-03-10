@@ -1,0 +1,7 @@
+http:
+  servers:
+    default:
+      port: 7877
+hue:
+  baseUrl: "${env.HUE_BASE_URL}"
+    
