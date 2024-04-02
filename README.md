@@ -1,5 +1,8 @@
 # gamestate
 
+_**NOTE: Archived because API has changed**_
+
+
 ## Usage
 
 gamestate_integration_magwom.cfg:
